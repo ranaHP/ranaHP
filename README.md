@@ -3,7 +3,10 @@
           Computer Vision,
           Innovation,
           Javascript,
-          Python.
+          Python,
+          Angular,
+          React,
+          NodeJS.
 - 🌱 I’m currently undergraduate Computer Science at the University of Colombo. 
 - 💞️ I'm looking to collaborate on Computer Vision, Javascript, Python, Angular, React, Nodejs, Arduino projects.
 - 📫 Contact number: 0717355284,
