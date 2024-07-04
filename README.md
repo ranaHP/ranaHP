@@ -13,6 +13,7 @@ Full Stack Engineer at DirectFN Ltd., where I develop robust web applications us
 🏅 Champions - ECSAPE THE LOOP 2020 conducted by Mozilla
 🏆 Finalist - National ICT Awards (NBQSA) 2022
 📜 Represented Sri Lanka at the Asia Pacific ICT Alliance Awards (APICTA) 2015
+
 🔹 Tech Stack:
 
 Languages: C, C++, Java, JavaScript, Python, TypeScript, Dart
@@ -23,6 +24,7 @@ Machine Learning: Pandas, Matplotlib, NumPy, Scikit-learn
 Databases: MySQL, MongoDB
 Cloud Services: AWS, Google Cloud Platform, DigitalOcean
 DevOps: Docker, Maven, GitHub, Bitbucket
+
 🔹 Projects:
 
 Suwasewana: An information portal for public health communication.
